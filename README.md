@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RaghavDataAnalyst
+- 👀 I’m interested in Data,
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me raghavgoyal877@gmail.com
